@@ -1,0 +1,21 @@
+.task-list{
+  width: 300px;
+  margin-top: 25px;
+  border: 1px solid #f2f2f2;
+  background-color: #cbd5d0;
+}
+
+.task {
+  display: flex;
+
+  form {
+    width: 100%;
+    margin: 10px;
+    font-size: 16px;
+
+  }
+  form:hover{
+    cursor: pointer;
+    background-color: aquamarine;
+  }
+}
